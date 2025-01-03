@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aimTextSize">24sp</dimen>
+    <dimen name="textViewPadding">24dp</dimen>
+    <dimen name="taskTextSize">80sp</dimen>
+    <dimen name="SmallMargin">4dp</dimen>
+    <dimen name="buttonTextSize">40sp</dimen>
+    <dimen name="tinyMargin">2dp</dimen>
+</resources>
