@@ -12,6 +12,6 @@
     <string name="Button8">8</string>
     <string name="Button9">9</string>
     <string name="Button0">0</string>
-    <string name="ButtonOK">OK</string>
-
+    <string name="ButtonOK">"OK"</string>
+    <string name="ButtonBackspace">"<![CDATA[<-"]]></string>
 </resources>

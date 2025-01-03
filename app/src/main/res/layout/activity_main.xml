@@ -209,7 +209,7 @@
             android:textSize="@dimen/buttonTextSize"
             android:textStyle="bold"
             android:gravity="center"
-            android:text="@string/button"
+            android:text="@string/ButtonBackspace"
             android:padding="@dimen/textViewPadding"
             android:layout_marginEnd="@dimen/tinyMargin"/>
 
