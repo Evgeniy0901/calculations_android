@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Kids_math</string>
-    <string name="activity_main_aim">Реши ещё 10 примеров без ошибок, чтобы закончить упражнение</string>
-    <string name="activityMainTask">5 + 8 =</string>
+    <string name="activity_main_aim">Реши ещё %1$s примеров без ошибок, чтобы закончить упражнение</string>
+    <string name="activity_main_aim_Finish">Молодец! Упражнение успешно выполнено</string>
+    <string name="activityMainTask">%1$s %2$s %3$s = %4$s</string>
     <string name="Button1">1</string>
     <string name="Button2">2</string>
     <string name="Button3">3</string>
@@ -14,4 +15,6 @@
     <string name="Button0">0</string>
     <string name="ButtonOK">"OK"</string>
     <string name="ButtonBackspace">"<![CDATA[<-"]]></string>
+    <string name="errorDialogTitle">Ошибка</string>
+    <string name="buttonUnder">Понятно</string>
 </resources>

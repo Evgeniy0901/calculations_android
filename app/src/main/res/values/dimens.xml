@@ -4,6 +4,10 @@
     <dimen name="textViewPadding">24dp</dimen>
     <dimen name="taskTextSize">80sp</dimen>
     <dimen name="SmallMargin">4dp</dimen>
-    <dimen name="buttonTextSize">40sp</dimen>
+    <dimen name="buttonTextSize">20sp</dimen>
     <dimen name="tinyMargin">2dp</dimen>
+    <dimen name="dialogStrokeWidth">4dp</dimen>
+    <dimen name="errorDialogTextSize">32sp</dimen>
+    <dimen name="largeMargin">32dp</dimen>
+    <dimen name="bigMargin">64dp</dimen>
 </resources>
